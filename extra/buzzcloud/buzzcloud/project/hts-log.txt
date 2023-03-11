@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Mar 2023 16:16:46 at https://themedox.com/demo/xolio/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themedox.com/demo/xolio/ -O1 "C:\xampp\htdocs\buzzcloud" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:18:19	Error: 	"Not Found" (404) at link https://themedox.com/demo/xolio/blog-dtails.html (from https://themedox.com/demo/xolio/blog.html)
+16:18:19	Error: 	"Not Found" (404) at link https://themedox.com/demo/xolio/Version/ (from https://themedox.com/demo/xolio/assets/js/tween-max.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 315 links scanned, 312 files written (17593019 bytes overall) [10517808 bytes received at 113094 bytes/sec], 11160902 bytes transferred using HTTP compression in 65 files, ratio 35%, 31.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
