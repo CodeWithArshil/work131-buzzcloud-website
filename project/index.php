@@ -326,14 +326,9 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="team-img-wrap">
-                            <img src="assets/img/team/team_img_shape.png" alt="" class="img-shape">
-                            <img src="assets/img/team/team_img01.png" alt="" class="img-one">
-                            <img src="assets/img/team/team_img02.png" alt="" class="img-two">
-                            <img src="assets/img/team/team_img03.png" alt="" class="img-three">
-                            <img src="assets/img/team/team_img04.png" alt="" class="img-four">
-                            <img src="assets/img/team/team_img05.png" alt="" class="img-five">
-                        </div>
+                    <video style="width: 550px; height: 350px;" autoplay>
+                        <source src="assets/img/buzzcloud-media.mp4" type="video/mp4">
+                    </video>
                     </div>
                     <div class="col-lg-6">
                         <div class="team-content">
@@ -553,35 +548,10 @@
                             <div class="section-title mb-25">
                                 <img src="assets/img/icon/consultation_icon01.png" alt="">
                                 <span class="sub-title">95% Accuracy</span>
-                                <h2 class="title">Worldwide Best Digital Marketing Agency</h2>
+                                <h2 class="title">Thank you for your interest in our digital marketing services!</h2>
                             </div>
-                            <p>Thank you for your interest in our digital marketing services!
-                                <br>
-                                <br>
-                                We are thrilled to learn more about your business and how we can help you achieve your
+                            <p> We are thrilled to learn more about your business and how we can help you achieve your
                                 goals in the digital landscape.</p>
-                            <div class="consultation-list">
-                                <ul class="list-wrap">
-                                    <li>
-                                        <div class="icon">
-                                            <img src="assets/img/icon/consultation_icon02.png" alt="">
-                                            <span>12x</span>
-                                        </div>
-                                        <div class="content">
-                                            <h6 class="title">Faster Order Processing</h6>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <img src="assets/img/icon/consultation_icon03.png" alt="">
-                                            <span>95%</span>
-                                        </div>
-                                        <div class="content">
-                                            <h6 class="title">Processing Accuracy</h6>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                     <div class="col-lg-5">

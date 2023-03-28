@@ -13,7 +13,7 @@
                                     <ul class="navigation">
                                         <li class="active menu-item"><a href="#">Home</a>
                                         </li>
-                                        <li><a href="about-us.html">About Us</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
                                     </ul>
                                 </div>
                                 <div class="header-action">
