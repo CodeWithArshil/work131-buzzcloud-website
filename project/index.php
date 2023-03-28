@@ -1,3 +1,20 @@
+<?php
+
+if (isset($_POST['consultation'])) {
+	$to = "arshilarab786@gmail.com";
+	$subject = "Test mail";
+	$name = $_POST['name'];
+	$email = $_POST['email'];
+	$phone = $_POST['phone'];
+	$message = $_POST['message'];
+	$message ="Name is " . $name . "Email is " . $email . " Phone is " . $phone . " Message is " . $message . " ";
+
+	$headers = 'From: info@buzzcloudmedia.com' . "\r\n" .
+		'Reply-To: no-reply@buzzcloudmedia.com' . "\r\n" .
+		'X-Mailer: PHP/' . phpversion();
+	mail($to, $subject, $message, $header);
+}
+?>
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -581,16 +598,16 @@
                             <h4 class="title">Free Consultation</h4>
                             <form action="#">
                                 <div class="form-grp">
-                                    <input type="text" placeholder="Name">
+                                    <input id="name" name="name" type="text" placeholder="Name">
                                 </div>
                                 <div class="form-grp">
-                                    <input type="email" placeholder="Email Address">
+                                    <input id="email" name="email" type="email" placeholder="Email Address">
                                 </div>
                                 <div class="form-grp">
-                                    <input type="text" placeholder="Phone Number">
+                                    <input id="phone" name="phone" type="text" placeholder="Phone Number">
                                 </div>
                                 <div class="form-grp">
-                                    <select id="shortBy" name="select" class="form-select"
+                                    <select id="shortBy" name="subject" class="form-select"
                                         aria-label="Default select example">
                                         <option value="">Subject</option>
                                         <option>Subject One</option>
@@ -599,7 +616,7 @@
                                         <option>Subject Four</option>
                                     </select>
                                 </div>
-                                <button class="btn" type="submit">Consultation</button>
+                                <button class="btn" type="submit" name="consultation">Consultation</button>
                             </form>
                         </div>
                     </div>
