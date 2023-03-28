@@ -126,7 +126,7 @@
     <!-- Scroll-top-end-->
 
     <!-- header-area -->
-    
+
     <?php 
     require_once 'elements/header.php';
     ?>
@@ -175,8 +175,8 @@
                                             <img src="assets/img/icon/inner_counter_icon01.png" alt="">
                                         </div>
                                         <div class="content">
-                                            <h2 class="count"><span class="odometer" data-count="210"></span>+</h2>
-                                            <p>Satisfied <span>Customers</span></p>
+                                            <h2 class="count"><span class="odometer" data-count="8"></span>k+</h2>
+                                            <p>Design <span>Created</span></p>
                                         </div>
                                     </div>
                                 </li>
@@ -186,8 +186,8 @@
                                             <img src="assets/img/icon/inner_counter_icon02.png" alt="">
                                         </div>
                                         <div class="content">
-                                            <h2 class="count"><span class="odometer" data-count="15"></span>k+</h2>
-                                            <p>Project <span>Finished</span></p>
+                                            <h2 class="count"><span class="odometer" data-count="25"></span>+</h2>
+                                            <p>Team <span>Members</span></p>
                                         </div>
                                     </div>
                                 </li>
@@ -197,8 +197,8 @@
                                             <img src="assets/img/icon/inner_counter_icon03.png" alt="">
                                         </div>
                                         <div class="content">
-                                            <h2 class="count"><span class="odometer" data-count="110"></span>+</h2>
-                                            <p>Our <span>Employees</span></p>
+                                            <h2 class="count">$<span class="odometer" data-count="250"></span>k+</h2>
+                                            <p>Campaign</span></p>
                                         </div>
                                     </div>
                                 </li>
@@ -208,8 +208,8 @@
                                             <img src="assets/img/icon/inner_counter_icon04.png" alt="">
                                         </div>
                                         <div class="content">
-                                            <h2 class="count"><span class="odometer" data-count="12"></span>+</h2>
-                                            <p>International <span>Awards</span></p>
+                                            <h2 class="count"><span class="odometer" data-count="70"></span>+</h2>
+                                            <p>Client’s</p>
                                         </div>
                                     </div>
                                 </li>
@@ -219,133 +219,23 @@
                     <div class="col-lg-6">
                         <div class="counter-content-three">
                             <div class="section-title title-style-two mb-30">
-                                <h2 class="title">Content Has to Be More That Just Brilliant</h2>
+                                <h2 class="title">The <br><span style="color: #f3b837;"> Buzz </span>Culture</h2>
                             </div>
-                            <p>Content needs to be supported by a comprehensive plan that includes factors such as audience research, marketing, and distribution channels. Simply creating great content and hoping it will succeed on its own is often not enough in today's highly competitive digital landscape.</p>
-                            <img src="#" alt="">
-                            <div class="content-bottom">
-                                <h4 class="title-two"></h4>
-                                <span>Director Company</span>
-                            </div>
+                            <p>Our team of experts is dedicated to delivering customized and data-driven solutions that
+                                will take your online presence to the next level, drive targeted traffic, and increase
+                                your ROI.
+                                <br>
+                                <br>
+                                We offer a range of services that are tailored to meet your unique needs and budget,
+                                including SEO, PPC advertising, social media marketing, email campaigns, content
+                                creation, and web design and development. We will work closely with you to..
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!-- counter-area-two -->
-
-        <!-- team-area -->
-        <section class="team-area-two pt-110 pb-120">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-7">
-                        <div class="section-title title-style-two text-center mb-70">
-                            <h2 class="title">Meet The Squad</h2>
-                            <p>Lorem ipsum dolor sit amet, sed nulla ante amet, elementum tincidunt arcu sed laoreet,
-                                natoque ac eget imperdiet. Ac scelerisque nibh dolores</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row team-active">
-                    <div class="col-lg-4">
-                        <div class="team-item">
-                            <div class="team-thumb">
-                                <a href="team-details.html"><img src="assets/img/team/inner_team01.jpg" alt=""></a>
-                            </div>
-                            <div class="team-content">
-                                <h2 class="title"><a href="team-details.html">Alena Rosser</a></h2>
-                                <span>CEO Kawasaki Inc.</span>
-                                <div class="team-social">
-                                    <ul class="list-wrap">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-item">
-                            <div class="team-thumb">
-                                <a href="team-details.html"><img src="assets/img/team/inner_team02.jpg" alt=""></a>
-                            </div>
-                            <div class="team-content">
-                                <h2 class="title"><a href="team-details.html">Tiana Dokidis</a></h2>
-                                <span>CEO Kawasaki Inc.</span>
-                                <div class="team-social">
-                                    <ul class="list-wrap">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-item">
-                            <div class="team-thumb">
-                                <a href="team-details.html"><img src="assets/img/team/inner_team03.jpg" alt=""></a>
-                            </div>
-                            <div class="team-content">
-                                <h2 class="title"><a href="team-details.html">Ryan Vetrovs</a></h2>
-                                <span>CEO Kawasaki Inc.</span>
-                                <div class="team-social">
-                                    <ul class="list-wrap">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-item">
-                            <div class="team-thumb">
-                                <a href="team-details.html"><img src="assets/img/team/inner_team04.jpg" alt=""></a>
-                            </div>
-                            <div class="team-content">
-                                <h2 class="title"><a href="team-details.html">Emerson Saris</a></h2>
-                                <span>CEO Kawasaki Inc.</span>
-                                <div class="team-social">
-                                    <ul class="list-wrap">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-item">
-                            <div class="team-thumb">
-                                <a href="team-details.html"><img src="assets/img/team/inner_team05.jpg" alt=""></a>
-                            </div>
-                            <div class="team-content">
-                                <h2 class="title"><a href="team-details.html">Lindsey Schleifer</a></h2>
-                                <span>CEO Kawasaki Inc.</span>
-                                <div class="team-social">
-                                    <ul class="list-wrap">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- team-area-end -->
 
         <!-- consultation-area -->
         <section class="consultation-area consultation-area-two pt-120 pb-120">
@@ -355,21 +245,10 @@
                         <div class="consultation-content">
                             <div class="section-title mb-25">
                                 <span class="sub-title">95% Accuracy</span>
-                                <h2 class="title">Worldwide Best Digital Marketing Agency</h2>
+                                <h2 class="title">Thank you for your interest in our digital marketing services!</h2>
                             </div>
-                            <p>It Is Difficult To Determine The "Worldwide Best" Digital Marketing Agency As It Depends On Various Factors Such As Industry, Target Audience, Budget, And Specific Marketing Objectives.</p>
-                            <div class="consultation-list">
-                                <ul class="list-wrap">
-                                    <li>
-                                        <h6 class="title">12X</h6>
-                                        <p>Faster Order <span>Processing</span></p>
-                                    </li>
-                                    <li>
-                                        <h6 class="title">99%</h6>
-                                        <p>Processing <span>Accuracy</span></p>
-                                    </li>
-                                </ul>
-                            </div>
+                            <p> We are thrilled to learn more about your business and how we can help you achieve your
+                                goals in the digital landscape.</p>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -422,90 +301,82 @@
                 <div class="inner-services-item-wrap">
                     <div class="row justify-content-center">
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon01.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Advertising</a></h2>
-                                    <p>Form of marketing communication that aims to promote or sell a product, service, or idea.</p>
+                                    <h2 class="title"><a href="services-details.html">On Page & Off Page SEO</a></h2>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon02.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Development</a></h2>
-                                    <p>Broad term that refers to the process of creating, improving, and enhancing something.</p>
+                                    <h2 class="title"><a href="services-details.html">Google Ads</a></h2>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon03.png" alt="">
                                 </div>
                                 <div class="services-content-four">
                                     <h2 class="title"><a href="services-details.html">Branding</a></h2>
-                                    <p>Create a strong and recognizable brand identity that resonates with customers and sets the company.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon04.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Product Design</a></h2>
-                                    <p>Refers to the process of creating and developing a new product from idea to production. </p>
+                                    <h2 class="title"><a href="services-details.html">Performence Marketing</a></h2>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon05.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Software</a></h2>
-                                    <p>Programs like Microsoft Office or Google Workspace, which are used for creating documents etc,</p>
+                                    <h2 class="title"><a href="services-details.html">Social Media Marketing</a></h2>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon06.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Marketing</a></h2>
-                                    <p>This will help you create marketing messages that resonate with them.</p>
+                                    <h2 class="title"><a href="services-details.html">Web & App development</a></h2>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon07.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Cinematography</a></h2>
-                                    <p>Refers to the art and technique of capturing and recording visual images on film or digital media. </p>
+                                    <h2 class="title"><a href="services-details.html">Content Marketing</a></h2>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item-four">
+                            <div class="services-item-four" style="background-color: #f3b837;">
                                 <div class="services-icon-four">
                                     <img src="assets/img/icon/inner_services_icon08.png" alt="">
                                 </div>
                                 <div class="services-content-four">
-                                    <h2 class="title"><a href="services-details.html">Strategy Services</a></h2>
-                                    <p>The process of developing a comprehensive and effective plan to achieve business goals and objectives.</p>
+                                    <h2 class="title"><a href="services-details.html">Photography & Videography</a></h2>
                                 </div>
                             </div>
                         </div>
@@ -530,13 +401,14 @@
                                 <span class="sub-title">Company Success</span>
                                 <h2 class="title">A Company’s Success is An Ongoing Stream of Happiness</h2>
                             </div>
-                            <p> A successful company is one that achieves its business goals, meets the needs of its customers, and provides value to its stakeholders.</p>
+                            <p> A successful company is one that achieves its business goals, meets the needs of its
+                                customers, and provides value to its stakeholders.</p>
                             <div class="success-list">
                                 <ul class="list-wrap">
                                     <li>
                                         <div class="content">
                                             <img src="assets/img/icon/success_icon01.png" alt="">
-                                            <span>App Design 85%</span>
+                                            <span>Performance Marketing & Google Add 85%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar" role="progressbar" style="width: 85%;"
@@ -546,7 +418,7 @@
                                     <li>
                                         <div class="content">
                                             <img src="assets/img/icon/success_icon02.png" alt="">
-                                            <span>Website Design 75%</span>
+                                            <span>SEO Services 75%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar" role="progressbar" style="width: 75%;"
@@ -556,7 +428,7 @@
                                     <li>
                                         <div class="content">
                                             <img src="assets/img/icon/success_icon03.png" alt="">
-                                            <span>Product Design 95%</span>
+                                            <span>Social Media Marketing 95%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar" role="progressbar" style="width: 95%;"
@@ -566,7 +438,7 @@
                                     <li>
                                         <div class="content">
                                             <img src="assets/img/icon/success_icon04.png" alt="">
-                                            <span>Development 99%</span>
+                                            <span>Web & App Development 99%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar" role="progressbar" style="width: 99%;"
@@ -585,148 +457,6 @@
             </div>
         </section>
         <!-- success-area-end -->
-
-        <!-- history-area -->
-        <section class="history-area">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-6 col-lg-8">
-                        <div class="section-title white-title text-center mb-45">
-                            <span class="sub-title">Our Company</span>
-                            <h2 class="title">Company History</h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                                has been the industry's standard.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="history-inner">
-                    <div class="history-img">
-                        <img src="assets/img/images/history_img.jpg" alt="">
-                    </div>
-                    <div class="row g-0 justify-content-end">
-                        <div class="col-lg-6">
-                            <div class="history-content">
-                                <h2 class="title">The Intention was to Establish The Company</h2>
-                                <p>company typically involves having a clear intention or purpose for creating the business. This could be driven by a desire to solve a problem or meet a need in the market, a passion for a particular industry or product, or a goal to create a profitable enterprise.</p>
-                                <ul class="list-wrap">
-                                    <li><i class="far fa-check"></i>Everyone can design at low cost</li>
-                                    <li><i class="far fa-check"></i>Designing in a different way</li>
-                                    <li><i class="far fa-check"></i>Our designs sill be world wide best designs</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="history-roadmap-wrap">
-                    <div class="roadmap-line-shape">
-                        <span class="dot-one pulse-one"></span>
-                        <span class="dot-two pulse-two"></span>
-                    </div>
-                    <ul class="list-wrap">
-                        <li class="wow fadeInDown" data-wow-delay=".2s" data-wow-duration="1.5s">
-                            <span class="dot pulse-three"></span>
-                            <div class="content">
-                                <h5 class="title">2020</h5>
-                                <p>January 14 th</p>
-                            </div>
-                        </li>
-                        <li class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
-                            <span class="dot pulse-four"></span>
-                            <div class="content">
-                                <h5 class="title">2021</h5>
-                                <p>January 14 th</p>
-                            </div>
-                        </li>
-                        <li class="wow fadeInDown" data-wow-delay=".2s" data-wow-duration="1.5s">
-                            <span class="dot pulse-five"></span>
-                            <div class="content">
-                                <h5 class="title">2022</h5>
-                                <p>January 14 th</p>
-                            </div>
-                        </li>
-                        <li class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
-                            <span class="dot pulse-six"></span>
-                            <div class="content">
-                                <h5 class="title">2023</h5>
-                                <p>January 14 th</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="history-shape-wrap">
-                <img src="assets/img/images/history_shape01.png" alt="">
-                <img src="assets/img/images/history_shape02.png" alt="">
-            </div>
-        </section>
-        <!-- history-area-end -->
-
-        <!-- testimonial-area -->
-        <section class="testimonial-area-three testimonial-area-four">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-8">
-                        <div class="section-title title-style-two mb-45">
-                            <h2 class="title">What Our Client’s Say</h2>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="testimonial-nav">
-                            <button class="swiper-button-prev"></button>
-                            <button class="swiper-button-next"></button>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="swiper-container testimonial-active-three">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item-three">
-                                        <div class="testimonial-thumb-three">
-                                            <img src="assets/img/images/testimonial_avatar01.png" alt="">
-                                        </div>
-                                        <div class="testimonial-content-three">
-                                            <h4 class="title">James Botosh</h4>
-                                            <span>Product Designer</span>
-                                            <p>“We seek to get involved early in the design phase so that we can manage
-                                                the project more efficiently, provide effective building solutions”</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item-three">
-                                        <div class="testimonial-thumb-three">
-                                            <img src="assets/img/images/testimonial_avatar02.png" alt="">
-                                        </div>
-                                        <div class="testimonial-content-three">
-                                            <h4 class="title">James Botosh</h4>
-                                            <span>Product Designer</span>
-                                            <p>“We seek to get involved early in the design phase so that we can manage
-                                                the project more efficiently, provide effective building solutions”</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item-three">
-                                        <div class="testimonial-thumb-three">
-                                            <img src="assets/img/images/testimonial_avatar03.png" alt="">
-                                        </div>
-                                        <div class="testimonial-content-three">
-                                            <h4 class="title">James Botosh</h4>
-                                            <span>Product Designer</span>
-                                            <p>“We seek to get involved early in the design phase so that we can manage
-                                                the project more efficiently, provide effective building solutions”</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- testimonial-area-end -->
 
         <!-- brand-area -->
         <div class="brand-area pb-120">
@@ -776,7 +506,7 @@
     <!-- main-area-end -->
 
     <!-- footer-area -->
-    
+
     <?php 
     require_once 'elements/footer.php';
     ?>
