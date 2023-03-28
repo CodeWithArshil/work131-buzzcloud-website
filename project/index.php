@@ -244,7 +244,8 @@
                                 <img src="assets/img/icon/services_icon01.png" alt="">
                             </div>
                             <div class="services-content">
-                                <h4 class="title"><a href="services-details.php">UIUX Design</a></h4>
+                                <h4 class="title"><a href="services-details.php">Performance Marketing & Google Add</a>
+                                </h4>
                                 <p>Refers to the process of designing user interfaces and experiences for digital
                                     products</p>
                             </div>
@@ -256,7 +257,7 @@
                                 <img src="assets/img/icon/services_icon02.png" alt="">
                             </div>
                             <div class="services-content">
-                                <h4 class="title"><a href="services-details.html">Digital Marketing</a></h4>
+                                <h4 class="title"><a href="services-details.html">SEO Services</a></h4>
                                 <p> Digital marketing is promoting products and services using electronic media.
                                 </p>
                             </div>
@@ -268,7 +269,7 @@
                                 <img src="assets/img/icon/services_icon03.png" alt="">
                             </div>
                             <div class="services-content">
-                                <h4 class="title"><a href="services-details.html">Website Design</a></h4>
+                                <h4 class="title"><a href="services-details.html">Social Media Markenting</a></h4>
                                 <p>Website design refers to the process of creating and designing the visual layout</p>
                             </div>
                         </div>
@@ -279,7 +280,7 @@
                                 <img src="assets/img/icon/services_icon04.png" alt="">
                             </div>
                             <div class="services-content">
-                                <h4 class="title"><a href="services-details.html">Branding Design</a></h4>
+                                <h4 class="title"><a href="services-details.html">Web & App Development</a></h4>
                                 <p>Branding design refers to the process of creating and designing the visual elements
                                 </p>
                             </div>
@@ -306,37 +307,12 @@
                                     <span class="sub-title">About Company</span>
                                     <h2 class="title">A Full Service Digital Marketing and Branding Agency</h2>
                                 </div>
-                                <p>A service design and branding agency is a company that specializes in creating and
-                                    improving the experience of customers with a brand's products or services.</p>
-                                <ul class="list-wrap">
-                                    <li>
-                                        <div class="icon">
-                                            <img src="assets/img/icon/about_icon01.png" alt="">
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="title">Concept Creation</h4>
-                                            <p>Concept creation content can take various forms and formats, depending on
-                                                the project's requirements and goals.</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <img src="assets/img/icon/about_icon02.png" alt="">
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="title">Sketch Drawing</h4>
-                                            <p>Sketch drawing is a technique used by artists and designers to create
-                                                quick and rough drawings that capture the essence of an idea or concept.
-                                            </p>
-                                        </div>
-                                    </li>
-                                </ul>
-                                <div class="about-content-bottom">
-                                    <span>Think Creative Agency Are a Full Service Design</span>
-                                    <div class="read-more-btn">
-                                        <a href="about-us.php" class="btn">Read More <span></span></a>
-                                    </div>
-                                </div>
+                                <p>Welcome to our digital marketing agency, where creativity meets strategy and
+                                    data-driven solutions lead to unparalleled success for our clients in the digital
+                                    landscape. <br><br> We are a team of passionate marketers, designers, developers,
+                                    and analysts who understand the ever-evolving nature of digital marketing and the
+                                    importance of staying ahead of the curve.</p>
+
                             </div>
                         </div>
                     </div>
@@ -367,7 +343,6 @@
                             </div>
                             <p>Creativity involves taking risks, experimenting with new ideas, and exploring uncharted
                                 territories. </p>
-                            <a href="team.html" class="btn">Meet Our Team <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -389,8 +364,9 @@
                                 <span class="sub-title">Our Complete Craft</span>
                                 <h2 class="title">Some of Our Work in Craft Digital Agency</h2>
                             </div>
-                            <p>Working in a craft digital agency involves creating digital experiences that are both
-                                aesthetically pleasing and highly functional.</p>
+                            <p>Buzzcloud is an walking-talking time bomb of creativity & Strategy. We explode with value
+                                creation at any given point according to your customised needs, be it in the middle of
+                                our sleep or in the middle of yawn-worthy chemistry lecture. Explore now….</p>
                             <div class="content-bottom">
                                 <a href="about-me.html" class="btn">View All Project <span></span></a>
                                 <div class="project-nav">
@@ -579,9 +555,11 @@
                                 <span class="sub-title">95% Accuracy</span>
                                 <h2 class="title">Worldwide Best Digital Marketing Agency</h2>
                             </div>
-                            <p>It is difficult to determine the "worldwide best" digital marketing agency as it depends
-                                on various factors such as industry, target audience, budget, and specific marketing
-                                objectives. </p>
+                            <p>Thank you for your interest in our digital marketing services!
+                                <br>
+                                <br>
+                                We are thrilled to learn more about your business and how we can help you achieve your
+                                goals in the digital landscape.</p>
                             <div class="consultation-list">
                                 <ul class="list-wrap">
                                     <li>
@@ -758,7 +736,7 @@
     </main>
     <!-- main-area-end -->
 
- <?php
+    <?php
  require_once 'elements/footer.php';
  ?>
 

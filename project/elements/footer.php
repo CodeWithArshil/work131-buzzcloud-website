@@ -29,8 +29,7 @@
                                     <ul class="list-wrap">
                                         <li><a href="index-2.html">Home</a></li>
                                         <li><a href="about-us.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="services-details.html">Service</a></li>
+                                        <li><a href="contact.html">Contact</a></li>>
                                     </ul>
                                 </div>
                             </div>
@@ -41,9 +40,7 @@
                                 <div class="fw-link">
                                     <ul class="list-wrap">
                                         <li><a href="about-us.html">About</a></li>
-                                        <li><a href="contact.html">Pricing</a></li>
                                         <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="contact.html">Request for Demo</a></li>
                                     </ul>
                                 </div>
                             </div>
