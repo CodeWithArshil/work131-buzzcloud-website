@@ -11,14 +11,14 @@
                                 </div>
                                 <div class="navbar-wrap main-menu d-none d-lg-flex">
                                     <ul class="navigation">
-                                        <li class="active menu-item"><a href="#">Home</a>
+                                        <li class="active menu-item"><a href="index.php">Home</a>
                                         </li>
                                         <li><a href="about-us.php">About Us</a></li>
                                     </ul>
                                 </div>
                                 <div class="header-action">
                                     <ul class="list-wrap">
-                                        <li class="header-btn"><a href="#!" class="btn">Contact <span></span></a></li>
+                                        <li class="header-btn"><a href="contact.php" class="btn">Contact <span></span></a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -73,7 +73,7 @@
                                                     </div>
                                                     <div class="content">
                                                         <a
-                                                            href="mailto:mediabuzzcloud@gmail.com">mediabuzzcloud@gmail.com</a>
+                                                            href="mailto:mediabuzzcloud@gmail.com">akashwalia@buzzcloudmedia.com</a>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -103,7 +103,7 @@
                                                 </li>
                                             </ul>
                                             <div class="lats-chat">
-                                                <a href="contact.html">Lat’s Chat</a>
+                                                <a href="contact.php">Lat’s Chat</a>
                                             </div>
                                         </div>
                                     </div>
@@ -131,11 +131,11 @@
                                     </div>
                                     <p>We offer solutions for businesses of all sizes. For questions about our plans and
                                         products,,
-                                        contact our team of experts. <a href="contact.html">Get in touch</a></p>
+                                        contact our team of experts. <a href="contact.php">Get in touch</a></p>
                                 </div>
                                 <div class="content-bottom">
-                                    <a href="contact.html">Support</a>
-                                    <a href="contact.html">Documentation</a>
+                                    <a href="contact.php">Support</a>
+                                    <a href="contact.php">Documentation</a>
                                 </div>
                             </div>
                         </div>

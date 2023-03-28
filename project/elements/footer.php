@@ -18,7 +18,8 @@
                                 </div>
                                 <div class="footer-contact">
                                     <span>For Support</span>
-                                    <h2 class="title"><a href="tel:0123456789">7984104006</a></h2>
+                                    <h2 class="title"><a href="tel:7984104006">7984104006</a></h2>
+                                    <h2 class="title"><a href="tel:9925332840">9925332840</a></h2>
                                 </div>
                             </div>
                         </div>
@@ -27,9 +28,9 @@
                                 <h4 class="fw-title">Primary Pages</h4>
                                 <div class="fw-link">
                                     <ul class="list-wrap">
-                                        <li><a href="index-2.html">Home</a></li>
-                                        <li><a href="about-us.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about-us.php">About</a></li>
+                                        <li><a href="contact.php">Contact</a></li>>
                                     </ul>
                                 </div>
                             </div>
@@ -39,8 +40,8 @@
                                 <h4 class="fw-title">Pages</h4>
                                 <div class="fw-link">
                                     <ul class="list-wrap">
-                                        <li><a href="about-us.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="about-us.php">About</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -51,9 +52,11 @@
                                 <div class="footer-about">
                                     <ul class="list-wrap">
                                         <li><img src="assets/img/icon/phone_icon.svg" alt=""><a
-                                                href="tel:0123456789">7984104006</a></li>
+                                                href="tel:7984104006">7984104006</a></li>
+                                        <li><img src="assets/img/icon/phone_icon.svg" alt=""><a
+                                                href="tel:9925332840">9925332840</a></li>
                                         <li><img src="assets/img/icon/mail_icon.svg" alt=""><a
-                                                href="mailto:mediabuzzcloud@gmail.com">mediabuzzcloud@gmail.com</a></li>
+                                                href="mailto:mediabuzzcloud@gmail.com">akashwalia@buzzcloudmedia.com</a></li>
                                         <li><img src="assets/img/icon/loction_icon.svg" alt=""><span>21st floor, D
                                                 Block, Westgate by true value, Sarkhej - Gandhinagar Hwy, Makarba,
                                                 Ahmedabad, Gujarat 380015</span></li>

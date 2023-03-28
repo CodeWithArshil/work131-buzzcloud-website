@@ -24,7 +24,26 @@
     <link rel="stylesheet" href="assets/css/default.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KZ5MXLT');</script>
+    <!-- End Google Tag Manager -->
+    <script type='text/javascript'>
+        window.smartlook || (function (d) {
+            var o = smartlook = function () { o.api.push(arguments) }, h = d.getElementsByTagName('head')[0];
+            var c = d.createElement('script'); o.api = new Array(); c.async = true; c.type = 'text/javascript';
+            c.charset = 'utf-8'; c.src = 'https://web-sdk.smartlook.com/recorder.js'; h.appendChild(c);
+        })(document);
+        smartlook('init', '138886dd8cb35817d4d5fda2ba0c34f04a1d4536', { region: 'eu' });
+    </script>
 </head>
+
 <style>
     .scroll-top {
         width: 40px;
@@ -168,7 +187,10 @@
 </style>
 
 <body>
-
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZ5MXLT" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <!--Preloader-->
     <div id="preloader">
@@ -326,9 +348,9 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                    <video style="width: 550px; height: 350px;" autoplay>
-                        <source src="assets/img/buzzcloud-media.mp4" type="video/mp4">
-                    </video>
+                        <video style="width: 550px; height: 350px;" autoplay>
+                            <source src="assets/img/buzzcloud-media.mp4" type="video/mp4">
+                        </video>
                     </div>
                     <div class="col-lg-6">
                         <div class="team-content">
