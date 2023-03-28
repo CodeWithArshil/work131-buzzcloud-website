@@ -57,9 +57,7 @@
                                                 href="tel:9925332840">9925332840</a></li>
                                         <li><img src="assets/img/icon/mail_icon.svg" alt=""><a
                                                 href="mailto:mediabuzzcloud@gmail.com">akashwalia@buzzcloudmedia.com</a></li>
-                                        <li><img src="assets/img/icon/loction_icon.svg" alt=""><span>21st floor, D
-                                                Block, Westgate by true value, Sarkhej - Gandhinagar Hwy, Makarba,
-                                                Ahmedabad, Gujarat 380015</span></li>
+                                        <li><img src="assets/img/icon/loction_icon.svg" alt=""><span>C-929, Siddhi Vinayak Towers, Corporate Rd, off S.G.Road, Prahalad Nagar Extantion, Ahmedabad, Gujarat 380051</span></li>
                                     </ul>
                                 </div>
                             </div>
